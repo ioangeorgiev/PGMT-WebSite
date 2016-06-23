@@ -1,0 +1,30 @@
+.specialnosti {
+	width: 750px;
+	margin: 0 auto;
+	margin-bottom: 100px;
+}
+
+.specialnosti h1 {
+	font-size: 27px;
+	text-align: center;
+}
+
+.specialnosti p {
+	text-align: center;
+}
+
+.specialnosti ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.specialnosti ul li a {
+    text-decoration: none;
+	color: #3782f3;
+}
+
+.specialnosti ul li a:hover {
+    text-decoration: underline;
+	color: #3762f3;
+}

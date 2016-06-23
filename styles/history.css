@@ -1,0 +1,15 @@
+.history-article {
+	width: 750px;
+	margin: 0 auto;
+}
+
+.history-article p {
+	color: #333;
+	line-height: 1.8;
+	text-indent: 40px;
+}
+
+.history-article .article-headings {
+	font-size: 25px;
+	text-align: center;
+}
